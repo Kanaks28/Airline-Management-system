@@ -30,11 +30,8 @@ A **Java Swing + MySQL** based Airline Management System with features like flig
 ---
 
 ## 🖼️ Screenshots
-
-*Add screenshots here for:*
-- Login screen
-- Booking form
-- Journey details
+    
+    
 
 ---
 
@@ -61,3 +58,4 @@ A **Java Swing + MySQL** based Airline Management System with features like flig
 4. Navigate to the `dist/` folder and run:
    ```bash
    java -jar AirlineManagementSystem.jar
+
